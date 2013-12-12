@@ -13,4 +13,4 @@ splash only requires convert (from Image Magick tools) to be installed.
 How to use
 ----------
 
-    ./splash.sh initial_picture.jpg output_folder
+    ./spla.sh [icon|splashscreen] initial_picture.jpg output_folder
